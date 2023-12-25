@@ -34,3 +34,7 @@ The timer is started, and the script enters a loop to keep it running indefinite
 
 **Summary**
 In summary, the script allows the user to either collect a new baseline or monitor files based on an existing baseline. It employs file hashing and a timer-based approach to detect changes in file paths or contents and updates the baseline accordingly. The script runs continuously until manually terminated.
+
+![image](https://github.com/Exploit-Geek/FIM/assets/154097277/7bd26ee9-015d-44a3-8450-06a405914c50)
+
+![image](https://github.com/Exploit-Geek/FIM/assets/154097277/e04c435d-2423-496a-a6ca-4aa288907786)
